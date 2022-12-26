@@ -1,4 +1,6 @@
 
+Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données - Projet Speed Dating
+
 Nom: Sutz
 
 Prénom: Florian
@@ -9,7 +11,6 @@ Lien de la vidéo :
 
 
 # Jedha_Projects_Speed_dating
-Premier projet de la formation Jedha portant sur l'analyse exploratoire de données
 
 Speed Dating with Tinder
 Company's description 📇
